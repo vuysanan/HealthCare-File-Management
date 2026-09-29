@@ -1,4 +1,4 @@
-# HealthCare File Management <i>(in progress)</i>
+# HealthCare File Management
 
 ## Background
 
